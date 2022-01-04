@@ -2,7 +2,7 @@
 
 ## Dokumentacja
 Architektura aplikacji:
-<img src="/client/src/architecture.png">
+<img src="/client/src/architektura.png">
 Przykład działania aplikacji:
 <img src="/client/src/work.png">
 Do rozwiązania zadania został wykorzystany kod z laboratorium 10. Zmiany które, zostały wykonane to:
