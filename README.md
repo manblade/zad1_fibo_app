@@ -28,6 +28,7 @@ Do rozwiązania zadania został wykorzystany kod z laboratorium 10. Zmiany któr
           </ul>
         </li>
       </ul>
+      Dodatkowo w pliku <u>docker-compose.dev.yml</u> został zmieniony port na 80 na, którym usługa startuje.
 
 ## Uruchomienie aplikacji
 1. Sklonowanie repo
