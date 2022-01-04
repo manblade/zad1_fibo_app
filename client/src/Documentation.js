@@ -15,7 +15,7 @@ export default () => {
         <img className="photo" src={work} alt="Przykład działania aplikacji"/>
       
       <div className="doc_text">
-      <p>Do rozwiązania zadania został wykorzystany kod z laboratorium 10. Zmiany które, zostały wykonane to: </p>
+      <p>Do rozwiązania zadania został wykorzystany kod z laboratorium 9. Zmiany które, zostały wykonane to: </p>
       worker:
       <ul>
         <li>W pliku <i>index.js</i> zmieniono funkcję licząca wartość "k-tej" liczby ciągu fibonacciego. Nowa funkcja jest nierekurencyjna w związku z czym działa szybciej.</li>
